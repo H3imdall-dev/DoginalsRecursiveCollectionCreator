@@ -1,7 +1,10 @@
-# DoginalsRecursiveCollectionCreator
-This repo is  the first dogecoin recursive doginals collection all in one  generator
+![image](https://github.com/GreatApe42069/DoginalsRecursiveCollectionCreator/assets/153969184/7e6a054d-7894-47f8-9979-97a9a187f026)
 
-doge tips are welcome details are at the bottom
+# DoginalsRecursiveCollectionCreator
+
+This repo is  the first Đogecoin recursive Đoginals collection all in one  generator
+
+Đoge tips are welcome details are at the bottom
 
 this was my first python script ...
 
@@ -100,6 +103,22 @@ dogecoins first recursive doginals collection builder
 recursive doginal builder and randomiser interface (generatehtml.py, metadata.py) built by heimdall-dev @heimdall_bull on x my doge tips welcome 
 master file creation and meta data embedding and reading (imageSticher.py, metaReader.py) built by martinseeger2002 @martinseeger2002 on x my doge tips welcome 
 
-have fun with this 
+***Have fun with this!*** 
 
-dont use it as an excuse to upload blurry crappy shit to the chain use this to strive to put higher and higher masters on chain that we can make awesome collections recusrivley 
+dont use it as an excuse to upload *blurry crappy shit* to the chain use this to strive to put higher and higher masters on chain that we can make awesome collections recusrivley 
+
+# Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+# Acknowledgments
+
+***If You would like to support with Donations, Send all Dogecoin tothe following Contributors:***
+
+1. **Heimdall** - X: <a href="https://x.com/Heimdall_Bull"><strong>@Heimdall_Bull</strong></a> - Wallet: ***DEpFirPqu8DZUoCT7zEzGZs74JPTCF3ZMJ***
+
+2. **Big Chief** - X: <a href="https://x.com/martinseeger2"><strong>@MartinSeeger2</strong></a> - Wallet: ***DCHxodkzaKCLjmnG4LP8uH6NKynmntmCNz***
+
+## License
+
+Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE` for more information.
