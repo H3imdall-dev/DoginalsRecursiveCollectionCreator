@@ -1,0 +1,461 @@
+{
+  "base_image_resolution": {
+    "width": 400,
+    "height": 400
+  },
+  "attributes": {
+    " background": [
+      {
+        "value": "blood",
+        "coordinates": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "value": "btc_orange",
+        "coordinates": {
+          "x": 400,
+          "y": 0
+        }
+      },
+      {
+        "value": "cherry",
+        "coordinates": {
+          "x": 800,
+          "y": 0
+        }
+      },
+      {
+        "value": "doge_yellow",
+        "coordinates": {
+          "x": 1200,
+          "y": 0
+        }
+      },
+      {
+        "value": "grey",
+        "coordinates": {
+          "x": 1600,
+          "y": 0
+        }
+      },
+      {
+        "value": "lime",
+        "coordinates": {
+          "x": 2000,
+          "y": 0
+        }
+      },
+      {
+        "value": "money",
+        "coordinates": {
+          "x": 2400,
+          "y": 0
+        }
+      },
+      {
+        "value": "pink",
+        "coordinates": {
+          "x": 2800,
+          "y": 0
+        }
+      },
+      {
+        "value": "purps",
+        "coordinates": {
+          "x": 3200,
+          "y": 0
+        }
+      },
+      {
+        "value": "sky",
+        "coordinates": {
+          "x": 3600,
+          "y": 0
+        }
+      }
+    ],
+    " body": [
+      {
+        "value": "brown_suede_btcorange_tee",
+        "coordinates": {
+          "x": 0,
+          "y": 400
+        }
+      },
+      {
+        "value": "brown_suede_dogeyellow_tee",
+        "coordinates": {
+          "x": 400,
+          "y": 400
+        }
+      },
+      {
+        "value": "brown_suede_green_tee",
+        "coordinates": {
+          "x": 800,
+          "y": 400
+        }
+      },
+      {
+        "value": "brown_suede_white_tee",
+        "coordinates": {
+          "x": 1200,
+          "y": 400
+        }
+      },
+      {
+        "value": "leather_jacket_btcorange_tee",
+        "coordinates": {
+          "x": 1600,
+          "y": 400
+        }
+      },
+      {
+        "value": "leather_jacket_dogeyellow_tee",
+        "coordinates": {
+          "x": 2000,
+          "y": 400
+        }
+      },
+      {
+        "value": "leather_jacket_green_tee",
+        "coordinates": {
+          "x": 2400,
+          "y": 400
+        }
+      },
+      {
+        "value": "leather_jacket_red_tee",
+        "coordinates": {
+          "x": 2800,
+          "y": 400
+        }
+      },
+      {
+        "value": "leather_jacket_white_tee",
+        "coordinates": {
+          "x": 3200,
+          "y": 400
+        }
+      },
+      {
+        "value": "shirt_tie",
+        "coordinates": {
+          "x": 3600,
+          "y": 400
+        }
+      }
+    ],
+    " skin": [
+      {
+        "value": "black_white",
+        "coordinates": {
+          "x": 0,
+          "y": 800
+        }
+      },
+      {
+        "value": "blue_white",
+        "coordinates": {
+          "x": 400,
+          "y": 800
+        }
+      },
+      {
+        "value": "brown_yellow",
+        "coordinates": {
+          "x": 800,
+          "y": 800
+        }
+      },
+      {
+        "value": "dogeyellow_white",
+        "coordinates": {
+          "x": 1200,
+          "y": 800
+        }
+      },
+      {
+        "value": "grey",
+        "coordinates": {
+          "x": 1600,
+          "y": 800
+        }
+      }
+    ],
+    " chain": [
+      {
+        "value": "gold",
+        "coordinates": {
+          "x": 0,
+          "y": 1200
+        }
+      },
+      {
+        "value": "gold_diamond",
+        "coordinates": {
+          "x": 400,
+          "y": 1200
+        }
+      },
+      {
+        "value": "ruby_gold",
+        "coordinates": {
+          "x": 800,
+          "y": 1200
+        }
+      },
+      {
+        "value": "ruby_silver",
+        "coordinates": {
+          "x": 1200,
+          "y": 1200
+        }
+      },
+      {
+        "value": "silver",
+        "coordinates": {
+          "x": 1600,
+          "y": 1200
+        }
+      },
+      {
+        "value": "silver_diamond",
+        "coordinates": {
+          "x": 2000,
+          "y": 1200
+        }
+      }
+    ],
+    " eyes-glasses": [
+      {
+        "value": "3dglasses",
+        "coordinates": {
+          "x": 0,
+          "y": 1600
+        }
+      },
+      {
+        "value": "420",
+        "coordinates": {
+          "x": 400,
+          "y": 1600
+        }
+      },
+      {
+        "value": "black",
+        "coordinates": {
+          "x": 800,
+          "y": 1600
+        }
+      },
+      {
+        "value": "btc_laser",
+        "coordinates": {
+          "x": 1200,
+          "y": 1600
+        }
+      },
+      {
+        "value": "btc_orange",
+        "coordinates": {
+          "x": 1600,
+          "y": 1600
+        }
+      },
+      {
+        "value": "doge_laser",
+        "coordinates": {
+          "x": 2000,
+          "y": 1600
+        }
+      },
+      {
+        "value": "doge_yellow",
+        "coordinates": {
+          "x": 2400,
+          "y": 1600
+        }
+      },
+      {
+        "value": "green",
+        "coordinates": {
+          "x": 2800,
+          "y": 1600
+        }
+      },
+      {
+        "value": "laser",
+        "coordinates": {
+          "x": 3200,
+          "y": 1600
+        }
+      },
+      {
+        "value": "mellow-yellow",
+        "coordinates": {
+          "x": 3600,
+          "y": 1600
+        }
+      },
+      {
+        "value": "money_green",
+        "coordinates": {
+          "x": 4000,
+          "y": 1600
+        }
+      },
+      {
+        "value": "red-eye-jedi",
+        "coordinates": {
+          "x": 4400,
+          "y": 1600
+        }
+      },
+      {
+        "value": "red",
+        "coordinates": {
+          "x": 4800,
+          "y": 1600
+        }
+      }
+    ],
+    " horns": [
+      {
+        "value": "bitcoin",
+        "coordinates": {
+          "x": 0,
+          "y": 2000
+        }
+      },
+      {
+        "value": "bitcoin_doge_striped",
+        "coordinates": {
+          "x": 400,
+          "y": 2000
+        }
+      },
+      {
+        "value": "doge",
+        "coordinates": {
+          "x": 800,
+          "y": 2000
+        }
+      },
+      {
+        "value": "horn",
+        "coordinates": {
+          "x": 1200,
+          "y": 2000
+        }
+      },
+      {
+        "value": "striped_horn",
+        "coordinates": {
+          "x": 1600,
+          "y": 2000
+        }
+      }
+    ],
+    " nose": [
+      {
+        "value": "black",
+        "coordinates": {
+          "x": 0,
+          "y": 2400
+        }
+      },
+      {
+        "value": "bullring",
+        "coordinates": {
+          "x": 400,
+          "y": 2400
+        }
+      },
+      {
+        "value": "cross",
+        "coordinates": {
+          "x": 800,
+          "y": 2400
+        }
+      },
+      {
+        "value": "o",
+        "coordinates": {
+          "x": 1200,
+          "y": 2400
+        }
+      },
+      {
+        "value": "x",
+        "coordinates": {
+          "x": 1600,
+          "y": 2400
+        }
+      }
+    ],
+    " hats": [
+      {
+        "value": "black_smiley_face",
+        "coordinates": {
+          "x": 0,
+          "y": 2800
+        }
+      },
+      {
+        "value": "btc_hat",
+        "coordinates": {
+          "x": 400,
+          "y": 2800
+        }
+      },
+      {
+        "value": "doge_hat",
+        "coordinates": {
+          "x": 800,
+          "y": 2800
+        }
+      },
+      {
+        "value": "luigi",
+        "coordinates": {
+          "x": 1200,
+          "y": 2800
+        }
+      },
+      {
+        "value": "mario",
+        "coordinates": {
+          "x": 1600,
+          "y": 2800
+        }
+      },
+      {
+        "value": "red_happy_face",
+        "coordinates": {
+          "x": 2000,
+          "y": 2800
+        }
+      }
+    ],
+    " mouth": [
+      {
+        "value": "closed",
+        "coordinates": {
+          "x": 0,
+          "y": 3200
+        }
+      },
+      {
+        "value": "smile",
+        "coordinates": {
+          "x": 400,
+          "y": 3200
+        }
+      }
+    ]
+  },
+  "credit": "credit to @MartinSeeger2 on X"
+}
