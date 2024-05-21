@@ -38,7 +38,7 @@ here are the steps needed
 
 2 . run 
 
-"python3 imageStitcher.py"
+'python3 imageStitcher.py'
 
 creates the main image from your layers called stitched_image.png
 
@@ -47,10 +47,10 @@ creates the main image from your layers called stitched_image.png
 
 then inscribe this sketch.js file to your doginal wallet - this will be the master kanvas 
 
-We will then run "python3 metaReader.py" 
+We will then run 'python3 metaReader.py' 
 this will then print the metadata so you can see all the points inscribed within the master image 
 
-we will then run "python3 metadata.py"
+we will then run 'python3 metadata.py'
 this will then give you  metadata.json file with all the plotted traits and locaions 
 
 once this is done you need to go to the inscription on ordinals wallet or drc-20 and get the master inscription id handy fot the next step
@@ -59,7 +59,7 @@ you will need doge wallet
 
 now we will generate all the files needed for your recursive collection
 
-run "python3 generatehtml.py"
+run 'python3 generatehtml.py'
 
 it will prompt you for:-
 the collection name 
