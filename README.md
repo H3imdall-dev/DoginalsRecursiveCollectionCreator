@@ -1,3 +1,6 @@
+![HeimyLips(1)](https://github.com/H3imdall-dev/DoginalsRecursiveCollectionCreator/assets/159389938/c7b8b1d5-36fa-43d9-888c-e0c97ba5cf84)
+
+
 ![image](https://github.com/GreatApe42069/DoginalsRecursiveCollectionCreator/assets/153969184/7e6a054d-7894-47f8-9979-97a9a187f026)
 
 # DoginalsRecursiveCollectionCreator
@@ -6,7 +9,7 @@ This repo is  the first Đogecoin recursive Đoginals collection all in one  gen
 
 Đoge tips are welcome details are at the bottom
 
-this was my first python script ...
+this was my first python script ...**@Heimdall_Bull**
 
 here is how you will use the tools provided to stitch an image together to make one master with all the traits embedded within the image
 then move on to generating the collection based on the metadata provided
@@ -32,15 +35,15 @@ here are the steps needed
     you will see it creates a `stitched_image.png`
 
 you need to then take this image into an online tool which will change this image into base 64 
-once you have converted stitched_image.png into base 64 copy and paste it into the the part that says this <Your Stiched Image in base64> on line 10 in sketch.js
+once you have converted `stitched_image.png` into base 64 copy and paste it into the the part that says this <Your Stiched Image in base64> on line 10 in `sketch.js`
 
 then inscribe this sketch.js file to your doginal wallet - this will be the master kanvas 
 
 We will then run metaReader.py 
 this will then print the metadata so you can see all the points inscribed within the master image 
 
-we will then run metadata.py
-this will then give you  metadata.json file with all the plotted traits and locaions 
+we will then run `metadata.py`
+this will then give you  `metadata.json` file with all the plotted traits and locaions 
 
 once this is done you need to go to the inscription on ordinals wallet or drc-20 and get the master inscription id handy fot the next step
 you will need doge wallet 
@@ -55,7 +58,7 @@ the collection name
 the canvas height
 the canvas width
 
-The Inscription id of the master .. make sure this is the correct one it is vital or your whole collection will be broken IMPORTANT
+The Inscription id of the master .. make sure this is the correct one it is vital or your whole collection will be broken ***IMPORTANT***
 
 then it will show you all your layers  and how many traits are in each layer 
 
@@ -77,7 +80,7 @@ you can enter both formats into the one line alsons as there is a comma
 
 layernumber traitname, layernumber traitname, layernumber traitname,layernumber layernumber traitname, 
 
-press etnter and it will update the new colleciton size based on the exclusions
+press enter and it will update the new colleciton size based on the exclusions
 
 then it will ask if you want to generate select y/n 
 
@@ -99,9 +102,9 @@ it will also spit out 2 formtted jsons one for OW and one for DM you will just n
 
 voila 
 
-dogecoins first recursive doginals collection builder
-recursive doginal builder and randomiser interface (generatehtml.py, metadata.py) built by heimdall-dev @heimdall_bull on x my doge tips welcome 
-master file creation and meta data embedding and reading (imageSticher.py, metaReader.py) built by martinseeger2002 @martinseeger2002 on x my doge tips welcome 
+Đogecoins first recursive Đoginals collection builder
+recursive Đoginal builder and randomiser interface (`generatehtml.py`, `metadata.py`) built by ***heimdall-dev*** **@heimdall_bull** on x my doge tips welcome 
+master file creation and meta data embedding and reading (`imageSticher.py`, `metaReader.py`) built by ***martinseeger2002*** **@martinseeger2002** on x my doge tips welcome 
 
 ***Have fun with this!*** 
 
