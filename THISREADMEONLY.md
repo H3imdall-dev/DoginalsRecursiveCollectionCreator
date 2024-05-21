@@ -1,3 +1,15 @@
+
+
+
+
+
+
+![HeimyLips](https://github.com/H3imdall-dev/DoginalsRecursiveCollectionCreator/assets/159389938/640a97de-3f5c-4f77-b86b-89dadd0c434c)
+
+
+
+
+
 # DoginalsRecursiveCollectionCreator
 This repo is  the first dogecoin recursive doginals collection all in one  generator
 
@@ -24,19 +36,21 @@ here are the steps needed
                4 Smokes
                etc
 
-2 . run imageStitcher.py
-    
-    you will see it creates a stitched_image.png
+2 . run 
 
-you need to then take this image into an online tool which will change this image into base 64 
-once you have converted stitched_image.png into base 64 copy and paste it into the the part that says this <Your Stiched Image in base64> on line 10 in sketch.js
+"python3 imageStitcher.py"
+
+creates the main image from your layers called stitched_image.png
+
+**you need to then take this image into an online tool which will change this image into base 64** 
+**once you have converted stitched_image.png into base 64 copy and paste it into the the part that says this <Your Stiched Image in base64> on line 10 in sketch.js**
 
 then inscribe this sketch.js file to your doginal wallet - this will be the master kanvas 
 
-We will then run metaReader.py 
+We will then run "python3 metaReader.py" 
 this will then print the metadata so you can see all the points inscribed within the master image 
 
-we will then run metadata.py
+we will then run "python3 metadata.py"
 this will then give you  metadata.json file with all the plotted traits and locaions 
 
 once this is done you need to go to the inscription on ordinals wallet or drc-20 and get the master inscription id handy fot the next step
@@ -45,14 +59,14 @@ you will need doge wallet
 
 now we will generate all the files needed for your recursive collection
 
-run generatehtml.py
+run "python3 generatehtml.py"
 
 it will prompt you for:-
 the collection name 
 the canvas height
 the canvas width
 
-The Inscription id of the master .. make sure this is the correct one it is vital or your whole collection will be broken IMPORTANT
+**The Inscription id of the master .. make sure this is the correct one it is vital or your whole collection will be broken IMPORTANT**
 
 then it will show you all your layers  and how many traits are in each layer 
 
@@ -96,10 +110,23 @@ it will also spit out 2 formtted jsons one for OW and one for DM you will just n
 
 voila 
 
-dogecoins first recursive doginals collection builder
-recursive doginal builder and randomiser interface (generatehtml.py, metadata.py) built by heimdall-dev @heimdall_bull on x my doge tips welcome 
-master file creation and meta data embedding and reading (imageSticher.py, metaReader.py) built by martinseeger2002 @martinseeger2002 on x my doge tips welcome 
 
 have fun with this 
 
 dont use it as an excuse to upload blurry crappy shit to the chain use this to strive to put higher and higher masters on chain that we can make awesome collections recusrivley 
+
+Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Acknowledgments
+dogecoins first recursive doginals collection builder
+recursive doginal builder and randomiser interface (generatehtml.py, metadata.py) built by heimdall-dev  
+master file creation and meta data embedding and reading (imageSticher.py, metaReader.py) built by martinseeger2002  
+If You would like to support with Donations, Send all Dogecoin tothe following Contributors:
+
+    Heimdall - X: @Heimdall_Bull - Wallet: DEpFirPqu8DZUoCT7zEzGZs74JPTCF3ZMJ
+
+    Big Chief - X: @MartinSeeger2 - Wallet: DCHxodkzaKCLjmnG4LP8uH6NKynmntmCNz
+
+License
+Distributed under the Creative Commons Zero v1.0 Universal License. See LICENSE for more information.
