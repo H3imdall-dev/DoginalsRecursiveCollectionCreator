@@ -27,9 +27,9 @@ here are the steps needed
                4 Smokes
                etc
 
-2 . run imageStitcher.py
+2 . run `imageStitcher.py`
     
-    you will see it creates a stitched_image.png
+    you will see it creates a `stitched_image.png`
 
 you need to then take this image into an online tool which will change this image into base 64 
 once you have converted stitched_image.png into base 64 copy and paste it into the the part that says this <Your Stiched Image in base64> on line 10 in sketch.js
@@ -48,7 +48,7 @@ you will need doge wallet
 
 now we will generate all the files needed for your recursive collection
 
-run generatehtml.py
+run `generatehtml.py`
 
 it will prompt you for:-
 the collection name 
