@@ -38,7 +38,7 @@ here are the steps needed
 
 2 . run 
 
-'python3 imageStitcher.py'
+`python3 imageStitcher.py`
 
 creates the main image from your layers called stitched_image.png
 
