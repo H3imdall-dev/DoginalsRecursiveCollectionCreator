@@ -3,7 +3,7 @@
 
 ![image](https://github.com/GreatApe42069/DoginalsRecursiveCollectionCreator/assets/153969184/7e6a054d-7894-47f8-9979-97a9a187f026)
 
-# DoginalsRecursiveCollectionCreator
+# Doginals Recursive Collection Creator
 
 This repo is  the first Đogecoin recursive Đoginals collection all in one  generator
 
